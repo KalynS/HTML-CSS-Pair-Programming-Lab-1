@@ -24,3 +24,14 @@ footer{
 a {
   color: #DB8B4D;
 }
+
+.column {
+  
+  flex:50%;
+
+}
+
+.row{
+  display:flex
+
+}
