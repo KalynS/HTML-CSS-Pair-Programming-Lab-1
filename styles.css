@@ -4,7 +4,6 @@
     left:0;
     bottom:0;
     width:100%;
-
 }
 
 header{
@@ -18,20 +17,29 @@ footer{
   background-color: black;
   color: white;
   height: 30px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
-
 
 a {
   color: #DB8B4D;
 }
 
 .column {
-  
   flex:50%;
-
 }
 
 .row{
   display:flex
+}
+
+.sidenav{
+  background-color: gray;
+  width: 300px;
+  height: 89%;
+  position: fixed;
+  top: 25;
+  right: 0;
 
 }
