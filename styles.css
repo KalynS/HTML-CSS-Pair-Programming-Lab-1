@@ -4,5 +4,23 @@
     left:0;
     bottom:0;
     width:100%;
-    
+
+}
+
+header{
+  color: #DB8B4D;
+  background-color: black;
+  height: 50px;
+  font-size: 30px;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  height: 30px;
+}
+
+
+a {
+  color: #DB8B4D;
 }
